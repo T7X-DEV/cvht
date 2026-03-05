@@ -23,7 +23,7 @@ This tool simplifies the configuration and activation of **HackTheBox (HTB)** an
 ### Installation
 Don't forget the environment variables!
 
-```bash
+```
 #1 git clone  https://github.com/T7X-DEV/cvht
 
 #2 cd cvht
